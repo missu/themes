@@ -51,7 +51,13 @@ I have hundreds of color schemes I've saved on Adobe Color (formally Kuler), col
 ```
 #34ACAF,#692DAC,#692DAC,#EEEEEE,#9D538E,#222222,#9D538E,#9D538E
 ```
+### Pantone Prince
 
+<img src="images/pantone-prince-menu.png" alt="Pantone Prince" width=auto height="250" />
+
+```
+#563B65,#222222,#F4B68A,#222222,#F4B68A,#EEEEEE,#CE7742,#CE7742
+```
 
 ### Muted Love
 <img src="images/muted-love-menu.png" alt="Muted love" width=auto height="250" />
